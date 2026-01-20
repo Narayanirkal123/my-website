@@ -242,7 +242,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('C:/Users/NARAVYAN IRKAL/.gemini/antigravity/brain/7d3ddc43-9fd9-4e30-900f-a9bccc40a79b/hero_medical_tech_1768832790444.png') center/cover;
+    background: url('images/hero_medical_tech_1768832790444.png') center/cover;
     opacity: 0.15;
     z-index: 0;
 }
@@ -885,3 +885,4 @@ section {
         grid-template-columns: 1fr;
     }
 }
+
